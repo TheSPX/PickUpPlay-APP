@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/readme/banner.svg" alt="PickupPlay — Find a game. Play at your level." width="100%" />
+<img src="docs/readme/banner.svg" alt="PickupPlay : Find a game. Play at your level." width="100%" />
 
 <br/>
 
@@ -23,16 +23,16 @@ PickupPlay finds pickup games on campus and matches you with players at your lev
 <td width="55%" valign="top">
 
 ### 🔎 Find a game in seconds
-Browse games near you by sport and level, see how many spots are left, the court, the time — and even the expected weather.
+Browse games near you by sport and level, see how many spots are left, the court, the time  and even the expected weather.
 
 ### ➕ Host your own
 Pick the court, date, skill range and number of players. For billiards, choose 8-Ball, 9-Ball, 10-Ball or Snooker.
 
 ### 💬 Talk to your group
-Every game has its own chat — sort out who's bringing the ball or running late.
+Every game has its own chat  sort out who's bringing the ball or running late.
 
 ### ⚖️ Fair games, every time
-A quick evaluation sets your level. After games, teammates confirm it — so every match stays balanced.
+A quick evaluation sets your level. After games, teammates confirm it , so every match stays balanced.
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -53,7 +53,7 @@ A quick evaluation sets your level. After games, teammates confirm it — so eve
 
 ## 🏆 Daily Quests
 
-Train between games. Every day brings new challenges — steps, push-ups, squats and a drill for your sport. Earn XP, keep your streak alive and climb the ranks from **E** to **S**.
+Train between games. Every day brings new challenges, steps, push-ups, squats and a drill for your sport. Earn XP, keep your streak alive and climb the ranks from **E** to **S**.
 
 <div align="center">
 <img src="docs/readme/quests.svg" alt="Daily Quests and Hunter ranks E to S" width="100%" />
@@ -73,7 +73,7 @@ Choose the theme that suits you from your profile:
 
 ## 📍 Where can I play?
 
-PickupPlay is live on the **NJUPT campus** — football fields, basketball and tennis courts, multi-sport grounds and the billiards room.
+PickupPlay is live on the **NJUPT campus** with football fields, basketball and tennis courts, multi sport grounds and the billiards room.
 
 <br/>
 
@@ -81,7 +81,7 @@ PickupPlay is live on the **NJUPT campus** — football fields, basketball and t
 
 | Platform | Status |
 |---|---|
-| 🤖 **Android** | Available as an APK — see the project website |
+| 🤖 **Android** | Available as an APK ( Join the Waitlist ) see the project website |
 | 🍎 **iOS** | Coming soon |
 
 <br/>
@@ -91,13 +91,13 @@ PickupPlay is live on the **NJUPT campus** — football fields, basketball and t
 <details>
 <summary><b>Is PickupPlay free?</b></summary>
 <br/>
-Yes — finding, joining and hosting games is completely free.
+Yes, finding, joining and hosting games is completely free.
 </details>
 
 <details>
 <summary><b>How is my skill level decided?</b></summary>
 <br/>
-When you sign up you answer a few quick questions for each sport you play. That gives you a level — Beginner, Intermediate or Competitive. After each game, teammates can confirm whether it was accurate, and your level adjusts over time.
+When you sign up you answer a few quick questions for each sport you play. That gives you a level from Beginner, Intermediate to Competitive. After each game, teammates can confirm whether it was accurate, and your level adjusts over time.
 </details>
 
 <details>
