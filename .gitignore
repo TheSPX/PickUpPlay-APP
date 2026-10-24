@@ -1,0 +1,52 @@
+# ── Secrets — never commit ─────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p8
+*.p12
+*.jks
+*.keystore
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+service-account*.json
+
+# ── Dependencies & build output ────────────────
+node_modules/
+.expo/
+dist/
+web-build/
+.metro-health-check*
+*.tsbuildinfo
+expo-env.d.ts
+
+# ── Generated native folders (EAS builds them) ─
+/android/
+/ios/
+.kotlin/
+*.orig.*
+*.apk
+*.aab
+
+# ── Supabase CLI local state ───────────────────
+supabase/.temp/
+supabase/.branches/
+**/supabase/.temp/
+
+# ── Editors / OS ───────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ───────────────────────────────────────
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# ── Local tooling ──────────────────────────────
+.artifacts/
